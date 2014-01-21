@@ -1,7 +1,7 @@
 include *.md
 include *.py
 
-recursive-include pareto *
+recursive-include vs *
 recursive-include docs *
 
 global-exclude *pyc
